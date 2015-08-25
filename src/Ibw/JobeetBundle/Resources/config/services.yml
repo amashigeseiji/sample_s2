@@ -1,0 +1,7 @@
+parameters:
+#    ibw_jobeet.example.class: Ibw\JobeetBundle\Example
+
+services:
+#    ibw_jobeet.example:
+#        class: %ibw_jobeet.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
